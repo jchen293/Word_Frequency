@@ -1,11 +1,7 @@
 /**
-* a6.cpp
 * Name:Junjie Chen
-* Person number:50200189
+* Date:12/6/2017
 *
-*  <algorithm>, <cstring>, <array>, <deque>, <forward_list>,
-*  <list>, <map>, <queue>, <set>, <stack>, <unordered_map>,
-*  <unordered_set>, <vector>, "A6.hpp"
 */
 #include "a6.hpp"
 using namespace std;
